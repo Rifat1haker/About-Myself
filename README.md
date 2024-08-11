@@ -2,7 +2,7 @@
 
 ~I am from Bangladesh And I am 17+ Years old🙂
 
-~I am a proficient hacker and programmer skilled in Python, Java, HTML, and CSS.😊
+~I am a proficient hacker and programmer skilled in Python, Java, PHP, and CSS.😊
 
 ~Additionally, I leads the Cyber Demon team, showcasing leadership qualities in the realm of cybersecurity and programming.✅
 
