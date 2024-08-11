@@ -1,8 +1,14 @@
 ~Hello💖 Myself Mueid Mursalin Rifat.
+
 ~I am from Bangladesh And I am 17+ Years old🙂
+
 ~I am a proficient hacker and programmer skilled in Python, Java, HTML, and CSS.😊
+
 ~Additionally, I leads the Cyber Demon team, showcasing leadership qualities in the realm of cybersecurity and programming.✅
-~This diverse skill set and ownership of a cybersecurity team demonstrate a passion for technology and a proactive approach to learning and leading in the digital domain.🫠
+
+~This diverse skill set and ownership of a cybersecurity team demonstrate a passion for technology and a proactive 
+
+approach to learning and leading in the digital domain.🫠
 
 ~ DEV ~
 
